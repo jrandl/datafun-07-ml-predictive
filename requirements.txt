@@ -16,3 +16,4 @@ spacy
 textatistic
 textblob
 voila
+deck
